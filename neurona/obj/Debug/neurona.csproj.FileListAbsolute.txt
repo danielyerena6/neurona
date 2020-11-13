@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\neurona\neurona\bin\Debug\neurona.exe.config
+C:\Users\Daniel\source\repos\neurona\neurona\bin\Debug\neurona.exe
+C:\Users\Daniel\source\repos\neurona\neurona\bin\Debug\neurona.pdb
+C:\Users\Daniel\source\repos\neurona\neurona\obj\Debug\neurona.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\neurona\neurona\obj\Debug\neurona.Form1.resources
+C:\Users\Daniel\source\repos\neurona\neurona\obj\Debug\neurona.Properties.Resources.resources
+C:\Users\Daniel\source\repos\neurona\neurona\obj\Debug\neurona.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\neurona\neurona\obj\Debug\neurona.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\neurona\neurona\obj\Debug\neurona.exe
+C:\Users\Daniel\source\repos\neurona\neurona\obj\Debug\neurona.pdb
